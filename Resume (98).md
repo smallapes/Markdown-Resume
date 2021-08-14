@@ -10,7 +10,7 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1995年出生
+ - 男，1998年出生
 
  - 职业：推荐算法工程师
 
@@ -21,8 +21,6 @@
    
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
-
-- 硕士，上海某985大学
 
 - 学士，上海某985大学
 
